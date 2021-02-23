@@ -19,3 +19,6 @@ Based off the amount you have consumed, you will recive a client sided caffeien 
  
  # Contributions
  You are alowwed to make changes, please open an issue and we can discuss further from there. 
+
+# License
+GNU GPL 3.0
