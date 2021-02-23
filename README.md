@@ -9,7 +9,7 @@ Based off the amount you have consumed, you will recive a client sided caffeien 
 
 
 # Installation 
- • Download The File
+ • Download the file
  
  • Drag and drop it into your ``Resources`` folder
  
