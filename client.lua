@@ -144,4 +144,4 @@ function resetAnims()
 end
 
 TriggerEvent('chat:addSuggestion', '/energydrink', '/energydrink <amount>')
-TriggerEvent('chat:addSuggestion', 'killcaffeine', 'kills your current caffeine high')
+TriggerEvent('chat:addSuggestion', '/killcaffeine', 'kills your current caffeine high')
