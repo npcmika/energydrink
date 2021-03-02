@@ -1,7 +1,7 @@
 # FiveM Energydrink Script v1
 A Fivem Script That Allows You To Act As If You Took An Energy Drink
 # Description
-Based off the amount you have consumed, you will recive a client sided caffeien high simulation. This will increase your speed, make your vision a bit blurry and stimulate your senses.
+Based off the amount you have consumed, you will recive a client sided caffeinehigh simulation. This will increase your speed, make your vision a bit blurry and stimulate your senses.
 # Commands
 ``/energydrink <amount>`` - Starts Caffeine High
 
